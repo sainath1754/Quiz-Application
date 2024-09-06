@@ -1,0 +1,20 @@
+Q. What is your age?
+a. 1
+b. 2
+c. 3
+d. 4
+correct: b
+
+Q. What is the capital of France?
+a. London
+b. Berlin
+c. Paris
+d. Madrid
+correct: c
+
+Q. What is 2 + 2?
+a. 3
+b. 4
+c. 5
+d. 6
+correct: b

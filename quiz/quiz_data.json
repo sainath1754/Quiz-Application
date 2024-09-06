@@ -1,0 +1,58 @@
+{
+  "questions": [
+    {
+      "question": "What is your age?",
+      "correct_option": "b",
+      "options": [
+        {
+          "a": "1"
+        },
+        {
+          "b": "2"
+        },
+        {
+          "c": "3"
+        },
+        {
+          "d": "4"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of France?",
+      "correct_option": "c",
+      "options": [
+        {
+          "a": "London"
+        },
+        {
+          "b": "Berlin"
+        },
+        {
+          "c": "Paris"
+        },
+        {
+          "d": "Madrid"
+        }
+      ]
+    },
+    {
+      "question": "What is 2 + 2?",
+      "correct_option": "b",
+      "options": [
+        {
+          "a": "3"
+        },
+        {
+          "b": "4"
+        },
+        {
+          "c": "5"
+        },
+        {
+          "d": "6"
+        }
+      ]
+    }
+  ]
+}
